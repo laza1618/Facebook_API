@@ -7,4 +7,4 @@ A Facebook API written in Java which provides some classes for exploring user's 
 
 Based on the Facebook Graph API.
 
-Class documentation can be found under the doc folder
+Class documentation can be found under the javadoc folder
